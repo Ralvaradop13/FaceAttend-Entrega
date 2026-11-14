@@ -1,0 +1,25 @@
+
+# Entorno virtual
+venv/
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Base de datos
+db.sqlite3
+db.sqlite3-journal
+
+# Datos personales y biométricos
+rostros_registrados/
+modelos/
+estudiantes.csv
+
+# Configuracion privada
+.env
+.env.*
+
+# Visual Studio Code
+.vscode/
